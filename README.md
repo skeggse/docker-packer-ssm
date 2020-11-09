@@ -1,6 +1,6 @@
 # docker-packer-ssm
 
-![https://img.shields.io/docker/cloud/build/skeggse/packer-ssm](build badge) ![https://img.shields.io/docker/pulls/skeggse/packer-ssm.svg](pulls badge)
+![build badge](https://img.shields.io/docker/cloud/build/skeggse/packer-ssm) ![pulls badge](https://img.shields.io/docker/pulls/skeggse/packer-ssm.svg)
 
 Docker container with packer and the AWS session-manager-plugin
 
